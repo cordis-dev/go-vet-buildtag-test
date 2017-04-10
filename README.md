@@ -1,0 +1,1 @@
+# go-vet-buildtag-test
